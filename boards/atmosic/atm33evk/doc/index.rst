@@ -1,6 +1,6 @@
 .. _atm33evk:
 
-Atmosic ATM33xx
+Atmosic ATM34xx
 ###############
 
 Overview
